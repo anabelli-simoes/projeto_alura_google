@@ -19,5 +19,8 @@ A automatização seria a extração de informações automática de dados de an
  - economia em relação ao gasto atual,
  - valor do aluguel bruto da casa nova reduzindo a economia de combustível.
 
+Plataformas utilizadas:
+Google Ai Studio - Structured Prompt
+
 Algumas falhas do projeto:
 - A leitura dos links não está funcionando e as informações do imóvel que ele retorna é em relação ao bairro que está escrito no link.
