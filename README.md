@@ -1,5 +1,4 @@
 # projeto_alura_google
-Projeto da Imersão Alura + Google
 Este projeto é uma tentativa de automatização de tarefas e geração de conteúdo para uma pessoa tomar uma decisão em relação ao seu endereço, seu trabalho e gastos com combustível. 
 Por exemplo: uma pessoa que mora longe do trabalho e quer verificar quanto gastaria em valor bruto do aluguel e quanto gastaria em combustível ao alugar uma casa mais próxima do trabalho.
 Os dados de entrada seriam: 
